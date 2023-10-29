@@ -1,0 +1,262 @@
+Asparagus)
+    # #87B158
+    name="Asparagus"
+    colour="87B158"
+    ;;
+
+Greyish-green)
+    # #8FA876
+    name="Greyish-green"
+    colour="8FA876"
+    ;;
+
+ Aqua)
+    # #66a8cb
+    name="Aqua"
+    colour="66a8cb"
+    ;;
+
+Botticelli) 
+    # #82a4b3
+    name="Botticelli"
+    colour="82a4b3"
+    ;;
+
+Casablanca)
+    # #fdb95b
+    name="Casablanca"
+    colour="fdb95b"
+    ;;
+
+Evopop)
+    # #1685a6
+    name="Evopop"
+    colour="1685a6"
+    ;;
+
+Fire)
+    # #f68516
+    name="Fire"
+    colour="f68516"
+    ;;
+
+Froly)
+    # #fd7980
+    name="Froly"
+    colour="fd7980"
+    ;;
+
+Havelock)
+    # #6ba4e7
+    name="Havelock"
+    colour="6ba4e7"
+    ;;
+
+Hibiscus)
+    # #d52f61
+    name="Hibiscus"
+    colour="d52f61"
+    ;;
+
+Mandy)
+    # #c93648
+    name="Mandy"
+    colour="c93648"
+    ;;
+
+Mantis)
+    # #6aa847
+    name="Mantis"
+    colour="6aa847"
+    ;;
+
+Numix)
+    # #ffa726
+    name="Numix"
+    colour="ffa726"
+    ;;
+
+Paper)
+    # #90a4ae
+    name="Paper"
+    colour="90a4ae"
+    ;;
+
+Pink)
+    # #ce6ca2
+    name="Pink"
+    colour="ce6ca2"
+    ;;
+
+Polo)
+    # #688bc6
+    name="Polo"
+    colour="688bc6"
+    ;;
+
+Punch)
+    # #c03645  
+    name="Punch"
+    colour="c03645"
+    ;;
+
+Smoke)
+    # #a1a1a1
+    name="Smoke"
+    colour="a1a1a1"
+    ;;
+
+Tacao)
+    # #efa369
+    name="Tacao"
+    colour="efa369"
+    ;;
+
+Tory)
+    # #596bb0 
+    name="Tory"
+    colour="596bb0"
+    ;;
+
+Tangerine)
+    # #FF9500
+    name="Tangerine"
+    colour="FF9500"
+    ;;
+
+Rusty-orange)
+    # #E56B1A
+    name="Rusty-orange"
+    colour="E56B1A"
+    ;;
+
+Light-blue-gray)
+    # #B8A8BC
+    name="Light-blue-gray"
+    colour="B8A8BC"
+    ;;
+
+Azure)
+    # #10ADFF
+    name="Azure"
+    colour="10ADFF"
+    ;;
+
+Dodger-blue)
+    # #2A8DFF
+    name="Dodger-blue"
+    colour="2A8DFF"
+    ;;
+
+Azul)
+    # #456CFF
+    name="Azul"
+    colour="456CFF"
+    ;;
+
+Light-salmon)
+    # #FFA38D
+    name="Light-salmon"
+    colour="FFA38D"
+    ;;
+
+Carnation)
+    # #FE6D88
+    name="Carnation"
+    colour="FE6D88"
+    ;;
+
+Warm-pink)
+    # #FD3E84
+    name="Warm-pink"
+    colour="FD3E84"
+    ;;
+
+Fern)
+    # #65B058
+    name="Fern"
+    colour="65B058"
+    ;;
+
+Medium-blue)
+    # #4A71C4
+    name="Medium-blue"
+    colour="4A71C4"
+    ;;
+
+Soft-blue)
+    # #5481E5
+    name="Soft-blue"
+    colour="5481E5"
+    ;;
+
+Arcolinux-blue)
+    # #6790eb
+    name="Arcolinux-blue"
+    colour="6790eb"
+    ;;
+
+Archlinux-blue)
+    # #1793D1
+    name="Archlinux-blue"
+    colour="1793D1"
+    ;;
+
+Sky-blue)
+    # #7EC1FF
+    name="Sky-blue"
+    colour="7EC1FF"
+    ;;
+
+Carolina-blue)
+    # #6BA4E7
+    name="Carolina-blue"
+    colour="6BA4E7"
+    ;;
+
+Slate-grey)
+    # #636A78
+    name="Slate-grey"
+    colour="636A78"
+    ;;
+
+Light-blue-surfn)
+    # #94C2E4
+    name="Light-blue-surfn"
+    colour="94C2E4"
+    ;;
+
+Nice-blue)
+    # #147EB8
+    name="Nice-blue"
+    colour="147EB8"
+    ;;
+
+Orangeish)
+    # #DA6F35
+    name="Orangeish"
+    colour="DA6F35"
+    ;;
+
+Deep-lavender)
+    # #8C6EC9
+    name="Deep-lavender"
+    colour="8C6EC9"
+    ;;
+
+Pale-brown)
+    # #AA876A
+    name="Pale-brown"
+    colour="AA876A"
+    ;;
+
+Peach)
+    # #DB9D61
+    name="Peach"
+    colour="DB9D61"
+    ;;
+
+Dark-salmon)
+    # #C15B58
+    name="Dark-salmon"
+    colour="C15B58"
